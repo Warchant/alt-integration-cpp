@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: 12
       - name: install deps
-        run: npm i -g @semantic-release/{git,github,changelog,commit-analyzer-release-notes-generator}
+        run: npm i -g @semantic-release/git @semantic-release/github @semantic-release/changelog @semantic-release/commit-analyzer @semantic-release/release-notes-generator
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
