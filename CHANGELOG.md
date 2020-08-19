@@ -1,5 +1,12 @@
 alt-integration-cpp
 
+# [2.1.0-gamma.2](https://github.com/Warchant/alt-integration-cpp/compare/v0.2.1.0-gamma.1...v0.2.1.0-gamma.2) (2020-08-19)
+
+
+### Features
+
+* **popfr:** add new file ([504b2ae](https://github.com/Warchant/alt-integration-cpp/commit/504b2ae73993ec923570feecedbb61a95e77936a))
+
 # [2.1.0-gamma.1](https://github.com/Warchant/alt-integration-cpp/compare/v0.2.0.0...v0.2.1.0-gamma.1) (2020-08-19)
 
 
