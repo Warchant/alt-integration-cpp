@@ -13,5 +13,5 @@ jobs:
         with:
           node-version: 12
       - name: install deps
-        run: npm i conventional-changelog-conventionalcommits
+        run: npm i @commitlint/config-angular @commitlint/cli
       - uses: wagoid/commitlint-github-action@v2
