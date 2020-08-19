@@ -1,5 +1,14 @@
 alt-integration-cpp
 
+# [2.1.0-gamma.1](https://github.com/Warchant/alt-integration-cpp/compare/v0.2.0.0...v0.2.1.0-gamma.1) (2020-08-19)
+
+
+### Features
+
+* add release/* branch to ci ([36233bf](https://github.com/Warchant/alt-integration-cpp/commit/36233bfd6702e0fa4b5374ea08d3ce5cb03ce033))
+* enable release on gamma ([2266658](https://github.com/Warchant/alt-integration-cpp/commit/22666589bfaa18a84ed92339cbc9a0189c85a1be))
+* **gamma:** create file 1 ([cf54ac3](https://github.com/Warchant/alt-integration-cpp/commit/cf54ac3f9c769e6b23b8166ae90ad9f71d12d454))
+
 # [2.0.0](https://github.com/Warchant/alt-integration-cpp/compare/v0.1.2.0...v0.2.0.0) (2020-08-19)
 
 
