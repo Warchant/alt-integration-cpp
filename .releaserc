@@ -9,6 +9,10 @@
       "name": "release/alpha",
       "prerelease": "${name.replace(/^release\\//g, '')}"
     },
+    {
+      "name": "release/gamma",
+      "prerelease": "${name.replace(/^release\\//g, '')}"
+    }
   ],
   "repositoryUrl": "https://github.com/Warchant/alt-integration-cpp",
   "tagFormat": "v0.${version}",
