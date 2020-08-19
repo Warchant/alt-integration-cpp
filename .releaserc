@@ -3,11 +3,11 @@
     "master",
     {
       "name": "release/beta",
-      "prerelease": "${name.replace(/^release\\//g, "")}"
+      "prerelease": "${name.replace(/^release\\//g, '')}"
     },
     {
       "name": "release/alpha",
-      "prerelease": "${name.replace(/^release\\//g, "")}"
+      "prerelease": "${name.replace(/^release\\//g, '')}"
     },
   ],
   "repositoryUrl": "https://github.com/Warchant/alt-integration-cpp",
