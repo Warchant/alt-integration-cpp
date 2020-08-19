@@ -1,5 +1,17 @@
 alt-integration-cpp
 
+# [2.0.0](https://github.com/Warchant/alt-integration-cpp/compare/v0.1.2.0...v0.2.0.0) (2020-08-19)
+
+
+### Features
+
+* remove 1 ([79a0a67](https://github.com/Warchant/alt-integration-cpp/commit/79a0a67ff571759e60f84b2fbe0837ceece26e94))
+
+
+### BREAKING CHANGES
+
+* this is breaking change test
+
 # [1.2.0](https://github.com/Warchant/alt-integration-cpp/compare/v0.1.1.0...v0.1.2.0) (2020-08-19)
 
 
