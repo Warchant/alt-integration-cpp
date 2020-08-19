@@ -1,0 +1,27 @@
+{
+  "branches": [
+    "master",
+    {
+      "name": "release/beta",
+      "prerelease": true
+    },
+    {
+      "name": "release/alpha",
+      "prerelease": true
+    },
+  ],
+  "repositoryUrl": "https://github.com/Warchant/alt-integration-cpp",
+  "tagFormat": "v0.${version}",
+  "plugins": [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
+    "@semantic-release/github",
+    ["@semantic-release/changelog", {
+      "changelogFile": "CHANGELOG.md",
+      "changelogTitle": "alt-integration-cpp"
+    }],
+    ["@semantic-release/git", {
+      "assets": ["CHANGELOG.md"]
+    }],
+  ]
+}
